@@ -1,0 +1,27 @@
+.main{
+    width: 400px;
+    height: 600px;
+    background-color:black;
+    margin-left: 500px;
+}
+#screen{
+    width: 90%;
+    height: 50px;
+    margin-left: 17px;
+    margin-top: 30px;
+    pointer-events: none;
+    font-size:20px;
+    font-weight: bold;
+}
+.btn{
+    
+    width: 65px;
+    height: 50px;
+    margin-top: 43px;
+    margin-left: 25px;
+    background: grey;
+    border-radius: 10px;
+}
+body{
+    background-color:antiquewhite;
+}
